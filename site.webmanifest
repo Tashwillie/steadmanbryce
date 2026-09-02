@@ -1,0 +1,20 @@
+{
+  "name": "Louis Stedman-Bryce",
+  "short_name": "LSB",
+  "description": "Founder of Inkfish Care, former MEP, and commentator on UK children's services.",
+  "start_url": "/",
+  "id": "/",
+  "lang": "en-GB",
+  "dir": "ltr",
+  "display": "browser",
+  "background_color": "#0B0C0E",
+  "theme_color": "#0B0C0E",
+  "icons": [
+    {
+      "src": "assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
