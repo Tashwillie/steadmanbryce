@@ -4,4 +4,4 @@ Disallow: /index_1.html
 Disallow: /thanks.html
 Disallow: /404.html
 
-Sitemap: https://steadmanbryce.com/sitemap.xml
+Sitemap: https://stedmanbryce.com/sitemap.xml
