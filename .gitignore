@@ -1,4 +1,5 @@
 .vercel
+.env*
 .DS_Store
 Thumbs.db
 index_1.html
