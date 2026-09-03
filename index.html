@@ -190,6 +190,7 @@
     ]
   }
   </script>
+  <script src="js/zoho-config.js" defer></script>
   <script src="js/main.js" defer></script>
 </head>
 <body>
@@ -528,10 +529,22 @@
       <h2 class="sec-h2">Let's talk</h2>
       <p class="sec-p">If you would like to connect, tell me a little about what you are working on and how I can help?</p>
 
-      <form class="contact-form" id="contactForm" action="#contact" method="post">
+      <form class="contact-form" id="contactForm" name="WebToLeads992623000001750008" action="https://crm.zoho.eu/crm/WebToLeadForm" method="POST" accept-charset="UTF-8">
+        <input type="hidden" name="xnQsjsdp" id="zohoXnQsjsdp" value="c817b256aa35181f0482b3eba6082413a0fa83f613fcbd99710f9a7f9bbc9b03">
+        <input type="hidden" name="xmIwtLD" id="zohoXmIwtLD" value="96cd81240f3077de82f9e1b2075457346b95d8c1cd18d778dbc0074160fea6f673a59a1034d35c6f9692a402aa1149e3">
+        <input type="hidden" name="actionType" id="zohoActionType" value="TGVhZHM=">
+        <input type="hidden" name="returnURL" id="zohoReturnURL" value="https://stedmanbryce.com/thanks.html">
+        <input type="hidden" name="zc_gad" id="zc_gad" value="">
+        <input type="hidden" name="Lead Source" id="zohoLeadSource" value="Web Research">
+        <input type="hidden" name="First Name" id="zohoFirstName" value="">
+        <input type="hidden" name="Last Name" id="zohoLastName" value="">
+        <input type="hidden" name="Description" id="zohoDescription" value="">
+        <input type="text" style="display:none" name="aG9uZXlwb3Q" value="" tabindex="-1" autocomplete="off">
+        <input type="text" name="a_password" class="visually-hidden" tabindex="-1" autocomplete="off">
+
         <label class="field">
           <span>What's this about? <em>(required)</em></span>
-          <select name="enquiry-type" id="enquiryType" required>
+          <select id="enquiryType" required>
             <option value="" disabled selected>Choose one</option>
             <option value="Education and training">Education and training</option>
             <option value="Consultancy">Consultancy (local authority, care provider or investor)</option>
@@ -542,22 +555,28 @@
 
         <label class="field">
           <span>Name</span>
-          <input type="text" name="name" id="contactName" required autocomplete="name" maxlength="80">
+          <input type="text" id="contactName" required autocomplete="name" maxlength="80">
         </label>
 
         <label class="field">
           <span>Email</span>
-          <input type="email" name="email" id="contactEmail" required autocomplete="email" maxlength="100">
+          <input type="email" name="Email" id="contactEmail" required autocomplete="email" maxlength="100">
         </label>
 
         <label class="field">
           <span>Message</span>
-          <textarea name="message" id="contactMessage" rows="5" required maxlength="3000"></textarea>
+          <textarea id="contactMessage" rows="5" required maxlength="3000"></textarea>
+        </label>
+
+        <label class="field field-check">
+          <input type="checkbox" id="contactConsent" required>
+          <span>I agree to be contacted about this enquiry.</span>
         </label>
 
         <button class="btn btn-solid" type="submit">Send enquiry</button>
         <p class="form-status" id="formStatus" role="status" hidden></p>
       </form>
+      <script id="wf_anal" src="https://crm.zohopublic.eu/crm/WebFormAnalyticsServeServlet?rid=9b1a5667c37bb2a697f8120fa9d417b51c6c4d9e40969e06b8ff2f8dd7963164387e61f2a510f925ee89a6ea430c669fgidc75ca0d2c6ad9a6862b6c521c62969c79925d3e3134005b03e52d0c38ca52fe6gid209fc0089687b488c853f3419237d69de3759ac4165512853470e0881857b598gid370b6e7320193833cbb1264ebab6ce0e9846e07022fad367ad32da9b1c7a5c3d&tw=8519b4a76401baf3a99a77be1a57b790efeac1505c1706ff03819ad1cde11bc8&version=v2"></script>
 
       <p class="sec-p connect-line">Prefer to just talk about consultancy support? Call <a href="tel:+441273569396">01273&nbsp;569&nbsp;396</a>, no form required.</p>
     </div>
