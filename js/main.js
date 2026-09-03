@@ -91,6 +91,7 @@
       xmIwtLD: (fromHtml.xmIwtLD || cfg.xmIwtLD || "").trim(),
       actionType: fromHtml.actionType || cfg.actionType || "TGVhZHM=",
       leadSource: cfg.leadSource || "Web Research",
+      tag: cfg.tag || "Website",
       thanksPage: cfg.thanksPage || "https://stedmanbryce.com/thanks.html"
     };
   }
@@ -140,10 +141,12 @@
       document.getElementById("zohoActionType").value = zoho.actionType || "TGVhZHM=";
       document.getElementById("zohoReturnURL").value = zoho.thanksPage;
       document.getElementById("zohoLeadSource").value = zoho.leadSource;
+      var tagEl = document.getElementById("zohoTag");
+      if (tagEl) tagEl.value = zoho.tag || "Website";
       document.getElementById("zohoFirstName").value = names.first.slice(0, 40);
       document.getElementById("zohoLastName").value = names.last.slice(0, 80);
       document.getElementById("zohoDescription").value =
-        "Enquiry type: " + enquiry + "\n\n" + message;
+        "[Website]\nEnquiry type: " + enquiry + "\n\n" + message;
 
       var btn = form.querySelector("[type='submit']");
       if (btn) {
