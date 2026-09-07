@@ -1,0 +1,36 @@
+1:"$Sreact.fragment"
+2:I[22016,["/_next/static/chunks/3g8d9_y747d1q.js","/_next/static/chunks/0u6ewmzunc6il.js"],""]
+3:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"ViewportBoundary"]
+9:I[97367,["/_next/static/chunks/3fntmmi971322.js"],"MetadataBoundary"]
+7:X
+1c:X
+1c:C
+0:{"buildId":"RDioBCPUOc6Z86ZecDwX_","data":[{"rsc":["$","$1","c",{"children":[["$","section",null,{"className":"bg-bone text-ink","children":["$","div",null,{"className":"container-editorial flex min-h-[70vh] flex-col justify-center pt-36 pb-24","children":[["$","p",null,{"className":"eyebrow flex items-center gap-4 opacity-80 mb-8","children":[null,["$","span",null,{"children":"404"}]]}],["$","h1",null,{"className":"serif-display display-lg max-w-[14ch]","children":"This page is not part of the system."}],["$","p",null,{"className":"lede measure-narrow mt-10 opacity-80","children":"The address may have changed, or the page may never have existed. The rest of the site is where it should be."}],["$","div",null,{"className":"mt-12 flex flex-wrap gap-4","children":[["$","$L2",null,{"href":"/","className":"group inline-flex items-center gap-4 rounded-full border px-6 py-3.5 text-[0.8125rem] font-medium uppercase tracking-[0.2em] transition-[background-color,color,border-color,transform] duration-500 ease-[var(--ease-editorial)] focus-visible:outline-offset-4 disabled:cursor-not-allowed disabled:opacity-60 border-ink bg-ink text-bone hover:bg-forest hover:border-forest","children":[["$","span",null,{"children":"Return home"}],["$","span",null,{"aria-hidden":"true","className":"relative inline-block h-[1px] w-6 bg-current transition-[width] duration-500 ease-[var(--ease-editorial)] group-hover:w-9","children":["$","span",null,{"className":"absolute -top-[3.5px] right-0 h-[8px] w-[8px] rotate-45 border-t border-r border-current"}]}]]}],["$","$L2",null,{"href":"/insights","className":"group inline-flex items-center gap-4 rounded-full border px-6 py-3.5 text-[0.8125rem] font-medium uppercase tracking-[0.2em] transition-[background-color,color,border-color,transform] duration-500 ease-[var(--ease-editorial)] focus-visible:outline-offset-4 disabled:cursor-not-allowed disabled:opacity-60 border-ink/40 bg-transparent text-ink hover:border-ink hover:bg-ink hover:text-bone","children":[["$","span",null,{"children":"Read insights"}],["$","span",null,{"aria-hidden":"true","className":"relative inline-block h-[1px] w-6 bg-current transition-[width] duration-500 ease-[var(--ease-editorial)] group-hover:w-9","children":["$","span",null,{"className":"absolute -top-[3.5px] right-0 h-[8px] w-[8px] rotate-45 border-t border-r border-current"}]}]]}]]}]]}]}],[["$","script","script-0",{"src":"/_next/static/chunks/0u6ewmzunc6il.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[["$","meta",null,{"name":"robots","content":"noindex"}],["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f4f1ea"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Louis Stedman-Bryce | Better systems. Better outcomes."}],["$","meta","1",{"name":"description","content":"Louis Stedman-Bryce brings together lived experience, responsible capital, property and public policy to explore how we build better systems for children and communities."}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://stedmanbryce.com/"}],["$","meta","4",{"property":"og:title","content":"Louis Stedman-Bryce | Better systems. Better outcomes."}],["$","meta","5",{"property":"og:description","content":"Louis Stedman-Bryce brings together lived experience, responsible capital, property and public policy to explore how we build better systems for children and communities."}],["$","meta","6",{"property":"og:url","content":"https://stedmanbryce.com/"}],["$","meta","7",{"property":"og:site_name","content":"Louis Stedman-Bryce"}],["$","meta","8",{"property":"og:locale","content":"en_GB"}],"$La","$Lb","$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17"]}]}]}],"$L18"]}],"isPartial":"$@19","staleTime":"$7","varyParams":null},{"rsc":"$L1a","isPartial":"$@1b","staleTime":"$7","varyParams":"$1c"}],"isUpgradeableISRFallback":false,"a":"$@1d","rootVaryParams":null,"needsRuntimeRequest":"$@1e"}
+1f:I[39756,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+20:I[37457,["/_next/static/chunks/3fntmmi971322.js"],"default"]
+5:null
+a:["$","meta","9",{"property":"og:image","content":"https://stedmanbryce.com/opengraph-image?2e2af7f88cba306c"}]
+b:["$","meta","10",{"property":"og:image:type","content":"image/png"}]
+c:["$","meta","11",{"property":"og:image:width","content":"1200"}]
+d:["$","meta","12",{"property":"og:image:height","content":"630"}]
+e:["$","meta","13",{"property":"og:image:alt","content":"Louis Stedman-Bryce: Better systems. Better outcomes."}]
+f:["$","meta","14",{"property":"og:type","content":"website"}]
+10:["$","meta","15",{"name":"twitter:card","content":"summary_large_image"}]
+11:["$","meta","16",{"name":"twitter:title","content":"Louis Stedman-Bryce | Better systems. Better outcomes."}]
+12:["$","meta","17",{"name":"twitter:description","content":"Louis Stedman-Bryce brings together lived experience, responsible capital, property and public policy to explore how we build better systems for children and communities."}]
+13:["$","meta","18",{"name":"twitter:image","content":"https://stedmanbryce.com/opengraph-image?2e2af7f88cba306c"}]
+14:["$","meta","19",{"name":"twitter:image:alt","content":"Louis Stedman-Bryce: Better systems. Better outcomes."}]
+15:["$","meta","20",{"name":"twitter:image:type","content":"image/png"}]
+16:["$","meta","21",{"name":"twitter:image:width","content":"1200"}]
+17:["$","meta","22",{"name":"twitter:image:height","content":"630"}]
+18:["$","meta",null,{"name":"next-size-adjust","content":""}]
+1a:["$","$1","c",{"children":[null,["$","$L1f",null,{"parallelRouterKey":"children","template":["$","$L20",null,{}]}]]}]
+1e:true
+7:300
+7:C
+1d:0
+19:"$undefined"
+1b:"$undefined"
+6:"$undefined"

@@ -1,0 +1,15 @@
+.form-status {
+  margin-top: 1rem;
+  font-size: 0.875rem;
+  line-height: 1.5;
+  max-width: 46ch;
+}
+.form-status.is-success { color: var(--color-forest); }
+.form-status.is-error { color: var(--color-clay); }
+
+.page-thanks {
+  min-height: 70vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}

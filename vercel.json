@@ -1,7 +1,20 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
   "cleanUrls": true,
-  "trailingSlash": false,
+  "trailingSlash": true,
+  "rewrites": [
+    { "source": "/opengraph-image", "destination": "/opengraph-image.png" }
+  ],
+  "headers": [
+    {
+      "source": "/opengraph-image.png",
+      "headers": [{ "key": "Content-Type", "value": "image/png" }]
+    },
+    {
+      "source": "/opengraph-image",
+      "headers": [{ "key": "Content-Type", "value": "image/png" }]
+    }
+  ],
   "redirects": [
     {
       "source": "/:path*",

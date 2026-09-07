@@ -1,0 +1,16 @@
+Options -Indexes
+ErrorDocument 404 /404.html
+
+<IfModule mod_headers.c>
+  <Files "opengraph-image">
+    Header set Content-Type "image/png"
+  </Files>
+  <Files "opengraph-image.png">
+    Header set Content-Type "image/png"
+  </Files>
+</IfModule>
+
+<IfModule mod_rewrite.c>
+  RewriteEngine On
+  RewriteRule ^opengraph-image$ /opengraph-image.png [L]
+</IfModule>

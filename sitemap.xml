@@ -1,19 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
-  <url>
-    <loc>https://stedmanbryce.com/</loc>
-    <lastmod>2026-09-02</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>1.0</priority>
-    <image:image>
-      <image:loc>https://stedmanbryce.com/assets/louis-portrait.jpg</image:loc>
-      <image:title>Louis Stedman-Bryce, founder of Inkfish Care</image:title>
-      <image:caption>Portrait of Louis Stedman-Bryce</image:caption>
-    </image:image>
-    <image:image>
-      <image:loc>https://stedmanbryce.com/assets/hero-poster.jpg</image:loc>
-      <image:title>Louis Stedman-Bryce on Sky News</image:title>
-    </image:image>
-  </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://stedmanbryce.com/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/about/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/work/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/insights/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/speaking/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/contact/</loc>
+<lastmod>2026-09-07T14:50:48.202Z</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.7</priority>
+</url>
+<url>
+<loc>https://stedmanbryce.com/insights/why-better-outcomes-require-better-systems/</loc>
+<lastmod>2026-09-01T00:00:00.000Z</lastmod>
+<changefreq>yearly</changefreq>
+<priority>0.6</priority>
+</url>
 </urlset>

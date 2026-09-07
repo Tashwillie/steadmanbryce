@@ -1,7 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /index_1.html
-Disallow: /thanks.html
-Disallow: /404.html
 
 Sitemap: https://stedmanbryce.com/sitemap.xml
